@@ -1,4 +1,7 @@
 # MVC #
+[![AppVeyor](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg?maxAge=2592000)](https://ci.appveyor.com/project/seesharper/lightinject-mvc)
+[![NuGet](https://img.shields.io/nuget/v/LightInject.Mvc.svg?maxAge=2592000)]()
+[![GitHub tag](https://img.shields.io/github/tag/seesharper/LightInject.Mvc.svg?maxAge=2592000)]()
 
 **LightInject.Mvc** provides an integration that enables dependency injection in ASP.NET MVC applications. 
 
